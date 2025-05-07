@@ -7,7 +7,7 @@ input:checked ~ img {
 }
 body {
   text-align: center;
-  background-image: url(/background.jpg);
+  background-image: url(background.jpg);
 }
 h1 {
   color: rgb(224, 244, 5);
